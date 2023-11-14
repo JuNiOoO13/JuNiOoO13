@@ -1,4 +1,4 @@
-## Status
+## STATUS
 <div style="display:flex; justify-content:center;">
  <img style="" src="https://github-readme-stats.vercel.app/api?username=JuNiOoO13&show_icons=true&theme=synthwave">
 </div>
