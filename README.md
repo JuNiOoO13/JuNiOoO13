@@ -1,19 +1,17 @@
 ### ola Meu nome é Claudevan
 
-<div>
- <img src="https://github-readme-stats.vercel.app/api?username=JuNiOoO13&show_icons=true&theme=synthwave" \>
+<div style="display:flex; justify-content:center;">
+ <img style="" src="https://github-readme-stats.vercel.app/api?username=JuNiOoO13&show_icons=true&theme=synthwave">
 </div>
 
 ## SKILLS
-
-![.net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![python](	https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![sql](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
- 
-
+<div style="display:flex; gap:6px; margin:auto;" >
+    <img style="width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+    <img style="width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+    <img style="width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img style="width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img style="width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+    <img style="width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img style="width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />      
+</div>
 
