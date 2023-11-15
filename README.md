@@ -1,7 +1,10 @@
 ## STATUS
-<div style="display:flex; justify-content:center;">
- <img style="" src="https://github-readme-stats.vercel.app/api?username=JuNiOoO13&show_icons=true&theme=synthwave">
+
+<div style="display:flex; justify-content:space-around; gap:20px; ">
+    <img style="width:30em" src="https://github-readme-stats.vercel.app/api?username=JuNiOoO13&show_icons=true&theme=synthwave">
+     <img style="width:27em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuNiOoO13&layout=compact">
 </div>
+
 
 ## SKILLS
 <div style="display:flex; gap:6px; margin:auto;" >
