@@ -15,6 +15,6 @@
     <img style="width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
     <img style="width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img style="width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-    <img style="width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/microsoftsqlserver-plain-wordmark.svg" />   
+    <img style="width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /> 
 </div>
 
